@@ -5,11 +5,11 @@
 ### The total voter turnout for the election is shown below in Figure 1. 
 ### ![Fig 1 - VS code of total_votes](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/total_votes.png?raw=true)
 ### The code looks at the provided .csv file and with the total_votes set to zero prior to the 'for' loop, the 'for' loop interates between all rows and counts (adds 1 of each row) for all 'rows' = votes cast in the election.
-### The total votes are displayed in the python terminal [Figure 3] using the command "print(election_results, end="")" and from the terminal output one can see that 369,711 votes were cast for this election.
-### Regarding Figure 2 below, there is code showing the ability for python to output results to a text file.  This output is shown later in Figure 6.
+### Regarding Figure 2 below, there is code showing the ability for python to output results to a text file.  This output is shown later in Figure 6. 
 ### ![Fig 2 - VS Code of Python Terminal](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/VS_to_terminal_total_votes.png?raw=true) 
+### The total votes are displayed in the python terminal [Figure 3] using the command "print(election_results, end="")" and from the terminal output one can see that 369,711 votes were cast for this election.
 ### Figure 2 above, shows the per county votes that were cast in the election and an example of the terminal output is shown in Figure 3.
- 
+
 ### Figure 3 also shows python export of the data from the python terminal view below. 
 ### ![Fig 3 - txt_file_output](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/terminal_total_votes1.png?raw=true)
 
