@@ -6,7 +6,7 @@
 ### ![Fig 1 - VS code of total_votes](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/total_votes.png?raw=true)
 ### The code looks at the provided .csv file and with the total_votes set to zero prior to the 'for' loop, the 'for' loop interates between all rows and counts (adds 1 of each row) for all 'rows' = votes cast in the election.
 ### The votes are displayed in the python terminal using the command print(election_results, end="") from Figure 2, and an example of the terminal output is 
-### ![Fig 2 - VS Code of Python Terminal](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/VS_to_terminal_total_votes.png?raw=true) This code also shows the results are printed to separte text file call election_analysis_challenge.txt.  ![Fig 3 - Python Termingal of Total Votes](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/terminal_total_votes1.png?raw=true) 
+### ![Fig 2 - VS Code of Python Terminal](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/terminal_total_votes1.png?raw=true) This code also shows the results are printed to separte text file call election_analysis_challenge.txt.  ![Fig 3 - Python Termingal of Total Votes](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/VS_to_terminal_total_votes.png?raw=true) 
 ### Figure 4 also shows python export of the data from the python terminal view below. 
 ### ![Fig 4 - txt_file_output](https://github.com/ASCHEET/Election_Analysis/blob/main/Resources/txt_results.png?raw=true)
 
